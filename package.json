@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-mapillary",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Mapillary MCP — wraps the Mapillary Graph API (graph.mapillary.com)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "mapillary",
     "gatewaySlug": "mapillary",
-    "sourceHash": "v1-bb6af45e45a302425ad297e47e408446fd1e795c8f953a5e022ab0e283d1b459",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-0c75a995a87c6e9a75b7ed5e1aa8bd3d7b0087f43fc1b210aa94a857af415bec",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
